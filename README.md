@@ -1,16 +1,20 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://geography.indiana.edu/images/banners/banners-3072x1024/gis-banner.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://geography.indiana.edu/images/banners/banners-3072x1024/gis-banner.jpg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
-<!--
-**Bahman75/Bahman75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi, I'm Bahman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
